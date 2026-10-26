@@ -1,4 +1,7 @@
 # final-project
+
+untuk menjalankan website cukup jalankan app.py 
+
 Ini adalah tampilan websitenya
 <img width="1868" height="852" alt="image" src="https://github.com/user-attachments/assets/38cdf720-2b56-444c-bab1-f7e2bca3d11c" />
 <img width="1859" height="843" alt="image" src="https://github.com/user-attachments/assets/955f6e62-45d8-4539-9657-df4cf5009f41" />
